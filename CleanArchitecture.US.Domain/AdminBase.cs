@@ -61,6 +61,7 @@ namespace CleanArchitecture.US.Domain
            #endregion
            public void AddValidationRules()
            {
+
            }
     }
 }
